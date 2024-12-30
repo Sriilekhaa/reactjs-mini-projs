@@ -32,6 +32,8 @@ if (showRecipeOne) {
   console.log(getRecipeTwoName("Coke"));
 }
 
+// condition ? statement_1 : statement_2
+
 showRecipeOne
   ? console.log(getRecipeOneName("Pizza"))
   : console.log(getRecipeTwoName("Coke"));
